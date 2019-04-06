@@ -1,0 +1,13 @@
+.loginCentralizado {
+	position: relative;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.tabelaAgenda {
+	background-color: #87d2ff;
+}
+
+.table-hover-maury > tbody > tr:hover {
+	background-color: #87d2ff;
+}
